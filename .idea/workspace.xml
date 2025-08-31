@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe92c7d4-96d5-4f72-b52c-a1ce52549596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/01_import_und_setup.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/02_harmonisierung.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/03_reporting.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analyse_kategorien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anlyse_umfrage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="fe92c7d4-96d5-4f72-b52c-a1ce52549596" name="Changes" comment="start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +131,27 @@
       <option name="presentableId" value="Default" />
       <updated>1756316171166</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1756632267006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756632267006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start">
+      <option name="closed" value="true" />
+      <created>1756632271869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756632271869</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>
