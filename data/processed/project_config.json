@@ -1,0 +1,20 @@
+{
+  "generated_at": "2025-08-31T12:59:01",
+  "base": "D:\\Q3_2025\\data-analytics\\project",
+  "paths": {
+    "raw": "D:\\Q3_2025\\data-analytics\\project\\data\\raw",
+    "processed": "D:\\Q3_2025\\data-analytics\\project\\data\\processed",
+    "reports": "D:\\Q3_2025\\data-analytics\\project\\reports",
+    "figures": "D:\\Q3_2025\\data-analytics\\project\\reports\\figures",
+    "mapping_csv": "D:\\Q3_2025\\data-analytics\\project\\data\\processed\\mapping_statista_to_kanon.csv"
+  },
+  "kanon": [
+    "Kleidung / Schuhe",
+    "Elektronik (z. B. Smartphones, Haushaltsgeräte)",
+    "Lebensmittel / Getränke",
+    "Bücher / Medien / Software",
+    "Medikamente / Drogerieartikel",
+    "Hobby- & Freizeitartikel",
+    "Möbel / Wohnaccessoires"
+  ]
+}

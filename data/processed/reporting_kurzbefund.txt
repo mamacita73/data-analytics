@@ -1,0 +1,25 @@
+Frage: **Welche Produktkategorien wurden mehr oder weniger gekauft?**
+
+Mehr gekauft (Top-3):
+- Kleidung / Schuhe: +49.0 pp (Δ 2021→2024)
+- Bücher / Medien / Software: +25.0 pp (Δ 2021→2024)
+- Elektronik (z. B. Smartphones, Haushaltsgeräte): +0.0 pp (Δ 2021→2024)
+
+Weniger gekauft (Top-3):
+- Medikamente / Drogerieartikel: -27.0 pp (Δ 2021→2024)
+- Hobby- & Freizeitartikel: -26.0 pp (Δ 2021→2024)
+- Möbel / Wohnaccessoires: -23.0 pp (Δ 2021→2024)
+
+Frage: **In welchen Warengruppen gab es Wachstum oder Rückgang?**
+
+Wachstum: Kleidung / Schuhe, Bücher / Medien / Software
+
+Rückgang: Lebensmittel / Getränke, Möbel / Wohnaccessoires, Hobby- & Freizeitartikel, Medikamente / Drogerieartikel
+
+Frage: **Gibt es Verschiebungen zwischen Bedarfsgütern und Luxusgütern?**
+
+- Bedarfsgüter gesamt: 2021 = 111.0 %, 2024 = 67.0 % → Δ = -44.0 pp
+
+- Luxusgüter gesamt:  2021 = 216.0 %, 2024 = 241.0 % → Δ = +25.0 pp
+
+Interpretation: **Prozentpunkte (pp)** ≠ Prozent. Positive Δ = Anteil stieg; negative Δ = Anteil sank.
