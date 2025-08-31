@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe92c7d4-96d5-4f72-b52c-a1ce52549596" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/notebooks/05_vergleich_stichprobe.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_import_und_setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_import_und_setup.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/02_harmonisierung.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_harmonisierung.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/03_reporting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/03_reporting.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fe92c7d4-96d5-4f72-b52c-a1ce52549596" name="Changes" comment="vcergleich" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,11 +155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1756632457751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="vcergleich">
+      <option name="closed" value="true" />
+      <created>1756654399731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756654399731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="vcergleich" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcergleich" />
   </component>
 </project>
