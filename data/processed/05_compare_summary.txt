@@ -1,0 +1,4 @@
+Niveau-Vergleich 2024 vs 2025: Spearman rho=0.857 (p=0.0137).
+Stichprobe deutlich höher als Statista (Top-2): Bücher / Medien / Software (+21.2 pp), Elektronik (z. B. Smartphones, Haushaltsgeräte) (+5.6 pp)
+Stichprobe deutlich niedriger als Statista (Top-2): Kleidung / Schuhe (-36.8 pp), Medikamente / Drogerieartikel (-22.8 pp)
+Dynamik: Vorzeichen-Übereinstimmung = nan %, Spearman rho=nan (p=nan).

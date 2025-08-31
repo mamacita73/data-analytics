@@ -1,0 +1,15 @@
+Kategorie,cnt,more_often_share_resp_%,more_often_share_ans_%,metric,year,N_total,N_answered,less_often_share_resp_%,less_often_share_ans_%
+Kleidung / Schuhe,24,61.53846153846154,72.72727272727273,more_often,2025,39,33,,
+"Elektronik (z. B. Smartphones, Haushaltsgeräte)",10,25.641025641025642,30.303030303030305,more_often,2025,39,33,,
+Lebensmittel / Getränke,6,15.384615384615385,18.181818181818183,more_often,2025,39,33,,
+Bücher / Medien / Software,8,20.512820512820515,24.242424242424242,more_often,2025,39,33,,
+Medikamente / Drogerieartikel,10,25.641025641025642,30.303030303030305,more_often,2025,39,33,,
+Hobby- & Freizeitartikel,12,30.76923076923077,36.36363636363637,more_often,2025,39,33,,
+Möbel / Wohnaccessoires,0,0.0,0.0,more_often,2025,39,33,,
+Kleidung / Schuhe,6,,,less_often,2025,39,16,15.384615384615385,37.5
+"Elektronik (z. B. Smartphones, Haushaltsgeräte)",5,,,less_often,2025,39,16,12.820512820512821,31.25
+Lebensmittel / Getränke,3,,,less_often,2025,39,16,7.6923076923076925,18.75
+Bücher / Medien / Software,7,,,less_often,2025,39,16,17.94871794871795,43.75
+Medikamente / Drogerieartikel,3,,,less_often,2025,39,16,7.6923076923076925,18.75
+Hobby- & Freizeitartikel,5,,,less_often,2025,39,16,12.820512820512821,31.25
+Möbel / Wohnaccessoires,0,,,less_often,2025,39,16,0.0,0.0
